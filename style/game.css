@@ -1,0 +1,14 @@
+
+body {
+    margin: 20px;
+}
+
+.board {
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    cursor: pointer;
+    }
+
+.board:hover {
+    border: 2px solid red;
+}
